@@ -1,0 +1,11 @@
+{
+  "name": "callback-promise-lab",
+  "version": "1.0.0",
+  "description": "These problems cover working with callbacks and promises.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
